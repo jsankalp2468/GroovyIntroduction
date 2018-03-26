@@ -1,3 +1,5 @@
+package Q1;
+
 public class Person {
     String name;
     int age;
@@ -68,5 +70,5 @@ public class Person {
 }
 
 //Q) Create a class in Java along with follwing fields.
-// classname: Person fields: name, age, gender, address
+// classname: Q1.Person fields: name, age, gender, address
 // Access the fields in all known ways: like through getter , by dot operator
